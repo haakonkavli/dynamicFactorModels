@@ -1,0 +1,10 @@
+Package: dynamicFactorModels
+Type: Package
+Title:  Utility functions for estimating Dynamic Factor Models (Dynamic Linear Models, State Space Models)
+Version: 0.1.0
+Author: Haakon Kavli
+Maintainer: Haakon Kavli <Kavli.Haakon@Gmail.com>
+Description: Based on existing DLM packages: dlm, marss
+Encoding: UTF-8
+LazyData: true
+Depends: MARSS, dlm, data.table,zoo, dateTools
